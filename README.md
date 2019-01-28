@@ -8,6 +8,6 @@ Demonstrated quantum entanglement and quantum superposition to provide efficient
  $ pip install qiskit
 
  
-Reference:<br> 
+## Reference:<br> 
 https://nbviewer.jupyter.org/github/Qiskit/qiskit-tutorial/blob/master/index.ipynb#1.2-Qiskit-Terra <br>
-https://qiskit.org/
+https://qiskit.org
